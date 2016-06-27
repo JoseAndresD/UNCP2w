@@ -1,0 +1,9 @@
+.container .row-header{
+	background: #f8f8f8;
+}
+.navbar{
+	border: none;
+}
+.block-logo{
+	display: inline-block;
+}
